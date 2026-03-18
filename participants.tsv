@@ -1,0 +1,18 @@
+participant_id	species	sex	strain
+sub-e13_16f1	Mus musculus	F	C57BL/6
+sub-e13_1f1	Mus musculus	M, F	C57BL/6
+sub-e13_1m1	Mus musculus	M, F	C57BL/6
+sub-e13_26m1	Mus musculus	M	C57BL/6
+sub-e14_1m1	Mus musculus	M	C57BL/6
+sub-e14_2m2	Mus musculus	M	C57BL/6
+sub-e14_2m3	Mus musculus	M	C57BL/6, Long Evans
+sub-e15_10m1	Mus musculus	M	C57BL/6
+sub-e15_13f1	Mus musculus	F	C57BL/6
+sub-e15_4m1	Mus musculus	M	C57BL/6
+sub-e15_4m2	Mus musculus	M	C57BL/6
+sub-e15_5m1	Mus musculus	M	C57BL/6
+sub-e15_9f1	Mus musculus	F	C57BL/6
+sub-e16_1f1	Mus musculus	F	C57BL/6
+sub-e16_2m1	Mus musculus	M	C57BL/6
+sub-e16_3m1	Mus musculus	M	Long Evans, C57BL/6
+sub-e16_3m2	Mus musculus	M	C57BL/6

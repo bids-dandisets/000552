@@ -1,0 +1,65 @@
+{
+    "onset": {
+        "Description": "Onset of the event, measured from the beginning of the acquisition.",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": "Duration of the event (measured from onset).",
+        "Units": "s"
+    },
+    "visited_matched_expected": {
+        "Description": "A boolean (or NaN) representing whether the expected and visited arm of the trial matches"
+    },
+    "visited_arm": {
+        "Description": "A string representing the visited arm of the trial"
+    },
+    "expected_arm": {
+        "Description": "A string representing the expected arm of the trial"
+    },
+    "recordings": {
+        "Description": "An integer value representing which recording this trial belongs to"
+    },
+    "is_familiar_maze": {
+        "Description": "A boolean representing whether the maze is familiar or novel"
+    },
+    "ripple_durations": {
+        "Description": "Duration of the ripple event."
+    },
+    "peaks": {
+        "Description": "Peak of the ripple."
+    },
+    "peak_normed_power": {
+        "Description": "Normed power of the peak."
+    },
+    "peak_frequencies": {
+        "Description": "Peak frequency of the ripple."
+    },
+    "peak_amplitudes": {
+        "Description": "Peak amplitude of the ripple."
+    },
+    "label": {
+        "Description": "Sleep state."
+    },
+    "nwb_table": {
+        "Description": "The name of the NWB table from which this event was extracted.",
+        "Levels": {
+            "trials": "The 'trials' table in the NWB file.",
+            "Ripples": "The 'Ripples' table in the NWB file.",
+            "SleepStates": "The 'SleepStates' table in the NWB file."
+        },
+        "HED": {
+            "trials": "Experimental-trial",
+            "Ripples": "Time-interval",
+            "SleepStates": "Time-interval"
+        }
+    },
+    "trials": {
+        "Description": "experimental trials"
+    },
+    "Ripples": {
+        "Description": "Ripples and their metrics"
+    },
+    "SleepStates": {
+        "Description": "Sleep state of the animal."
+    }
+}

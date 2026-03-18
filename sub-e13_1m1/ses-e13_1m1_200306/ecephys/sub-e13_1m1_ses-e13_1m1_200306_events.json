@@ -1,0 +1,45 @@
+{
+    "onset": {
+        "Description": "Onset of the event, measured from the beginning of the acquisition.",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": "Duration of the event (measured from onset).",
+        "Units": "s"
+    },
+    "ripple_durations": {
+        "Description": "Duration of the ripple event."
+    },
+    "peaks": {
+        "Description": "Peak of the ripple."
+    },
+    "peak_normed_power": {
+        "Description": "Normed power of the peak."
+    },
+    "peak_frequencies": {
+        "Description": "Peak frequency of the ripple."
+    },
+    "peak_amplitudes": {
+        "Description": "Peak amplitude of the ripple."
+    },
+    "label": {
+        "Description": "Sleep state."
+    },
+    "nwb_table": {
+        "Description": "The name of the NWB table from which this event was extracted.",
+        "Levels": {
+            "Ripples": "The 'Ripples' table in the NWB file.",
+            "SleepStates": "The 'SleepStates' table in the NWB file."
+        },
+        "HED": {
+            "Ripples": "Time-interval",
+            "SleepStates": "Time-interval"
+        }
+    },
+    "Ripples": {
+        "Description": "Ripples and their metrics"
+    },
+    "SleepStates": {
+        "Description": "Sleep state of the animal."
+    }
+}
