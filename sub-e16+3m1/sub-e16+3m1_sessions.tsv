@@ -1,7 +1,7 @@
-session_id
-ses-e16+3m1+210111
-ses-e16+3m1+210119
-ses-e16+3m1+210201
-ses-e16+3m1+210201+raw
-ses-e16+3m1+210203
-ses-e16+3m1+210203+raw
+session_id	original_session_id
+ses-e16+3m1+210111	ses-e16_3m1_210111
+ses-e16+3m1+210119	ses-e16_3m1_210119
+ses-e16+3m1+210201	ses-e16_3m1_210201
+ses-e16+3m1+210201+raw	ses-e16_3m1_210201_raw
+ses-e16+3m1+210203	ses-e16_3m1_210203
+ses-e16+3m1+210203+raw	ses-e16_3m1_210203_raw

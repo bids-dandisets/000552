@@ -1,4 +1,4 @@
-session_id
-ses-e15+5m1+200313+1
-ses-e15+5m1+200313+2
-ses-e15+5m1+200314
+session_id	original_session_id
+ses-e15+5m1+200313+1	ses-e15_5m1_200313_1
+ses-e15+5m1+200313+2	ses-e15_5m1_200313_2
+ses-e15+5m1+200314	ses-e15_5m1_200314

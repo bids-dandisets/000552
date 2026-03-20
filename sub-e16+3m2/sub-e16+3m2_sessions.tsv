@@ -1,9 +1,9 @@
-session_id
-ses-e16+3m2+211210
-ses-e16+3m2+211210+raw
-ses-e16+3m2+211211
-ses-e16+3m2+211211+raw
-ses-e16+3m2+211212
-ses-e16+3m2+211212+raw
-ses-e16+3m2+211213
-ses-e16+3m2+211213+raw
+session_id	original_session_id
+ses-e16+3m2+211210	ses-e16_3m2_211210
+ses-e16+3m2+211210+raw	ses-e16_3m2_211210_raw
+ses-e16+3m2+211211	ses-e16_3m2_211211
+ses-e16+3m2+211211+raw	ses-e16_3m2_211211_raw
+ses-e16+3m2+211212	ses-e16_3m2_211212
+ses-e16+3m2+211212+raw	ses-e16_3m2_211212_raw
+ses-e16+3m2+211213	ses-e16_3m2_211213
+ses-e16+3m2+211213+raw	ses-e16_3m2_211213_raw
